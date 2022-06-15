@@ -1,0 +1,16 @@
+.button_apply{
+    width: 150px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    background-color: #0e0e88;
+    text-align: center;
+    margin-left: 15%;
+    border-radius: 5px;
+    border: none;
+}
+.button_apply:hover{
+    background-color: #22a322;
+}
